@@ -1,0 +1,1 @@
+create table PRODUCT (id varchar, title varchar, description varchar);
